@@ -22,7 +22,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 6.End the Program.
 
 ## Program:
-```python
+```
 
 Program to implement the SVM For Spam Mail Detection..
 Developed by: Sai Hrishi M
